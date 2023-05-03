@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="keyboard_manager.cpp" />
+    <ClCompile Include="mouse_manager.cpp" />
+    <ClCompile Include="surface.cpp" />
+    <ClCompile Include="template.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
+    <ClInclude Include="keyboard_manager.h" />
+    <ClInclude Include="mouse_manager.h" />
+    <ClInclude Include="surface.h" />
+    <ClInclude Include="template.h" />
+  </ItemGroup>
+</Project>
